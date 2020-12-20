@@ -1,4 +1,16 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
+"""
+Przedmiot:
+Kierunek studiów:
+Semestr:
+Rok akademicki:
+Data (dzień-miesiąc-rok):
+Imię:
+Nazwisko:
+Numer albumu ZUT:
+"""
 
 import random
 
